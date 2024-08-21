@@ -6,7 +6,7 @@
 python -m venv venv
 ```
 ```bash
-source env/bin/activate
+source venv/bin/activate
 ```
 
 ```bash
