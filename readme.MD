@@ -1,4 +1,4 @@
-# VeraReality test task
+# VeraRealty test task
 
 ## Запуск
 
